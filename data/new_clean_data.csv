@@ -1,0 +1,13 @@
+﻿patientid;offset;sex;age;finding;survival;intubated;went_icu;needed_supplemental_O2;extubated;temperature;pO2_saturation;leukocyte_count;neutrophil_count;lymphocyte_count;view;modality;date;location;folder;filename;doi;url;license;clinical_notes;other_notes
+1;;F;71;COVID-19;N;Y;Y;;;;91;;;1,16;PA;;26/03/2020;Spain;;image_1;;;;;
+1;;F;71;COVID-19;N;Y;Y;;;;91;;;1,16;PA;;26/03/2020;Spain;;image_2;;;;;
+1;;F;71;COVID-19;N;Y;Y;;;;91;;;1,16;PA;;26/03/2020;Spain;;image_3;;;;;
+1;;F;71;COVID-19;N;Y;Y;;;;91;;;1,16;PA;;26/03/2020;Spain;;image_4;;;;;
+2;;F;94;COVID-19;N;;Y;;;;;;;0,47;;;26/03/2020;Spain;;image_5;;;;;
+2;;F;94;COVID-19;N;;Y;;;;;;;0,47;;;26/03/2020;Spain;;image_6;;;;;
+2;;F;94;COVID-19;N;;Y;;;;;;;0,47;;;26/03/2020;Spain;;image_7;;;;;
+3;;;69;COVID-19;Y;;;;;;96;;;;;;22/03/2020;;;image_8;;;;;
+4;;M;65;COVID-19;Y;;;;;;;;;;L;;22/03/2020;Italy;;image_9;;;;;
+5;;M;71;COVID-19;Y;;;;;38,7;97;;;;PA;;22/03/2020;;;image_10;;;;;
+6;;M;62;COVID-19;Y;;;;;;97;;;;PA;;22/03/2020;Italy;;image_11;;;;;
+7;;M;65;COVID-19;Y;;;;;37,5;;;;6,37;AP;;22/03/2020;Italy;;image_12;;;;;
