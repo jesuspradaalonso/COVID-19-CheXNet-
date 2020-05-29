@@ -15,3 +15,5 @@ COVID-19 CheXNet code and data
 - [train.ipynb](https://github.com/jesuspradaalonso/COVID-19-CheXNet-/tree/master/scripts/train.ipynb): Train and evaluation of final first layer CNN model using optimal hyperparameters found in grid.ipynb.
 - [final_model.ipynb](https://github.com/jesuspradaalonso/COVID-19-CheXNet-/tree/master/scripts/final_model.ipynb): Train and evaluation of second layer model coded in Python.
 - [final_model.R](https://github.com/jesuspradaalonso/COVID-19-CheXNet-/tree/master/scripts/final_model.R): Train and evaluation of second layer model coded in R.
+
+**GitHub created by:** Yvonne Gala García and Jesús Prada Alonso.
